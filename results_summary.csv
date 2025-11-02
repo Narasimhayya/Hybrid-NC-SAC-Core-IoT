@@ -1,0 +1,4 @@
+metric,Baseline,NC,SAC,Hybrid
+avg_energy_joules,0.7032,0.5381,0.5007,0.4266
+avg_pdr,0.7513,0.7613,0.7656,0.8121
+avg_throughput_kbps,74.0359,82.3113,80.1609,104.0121
